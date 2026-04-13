@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "created_at": "2026-03-31T08:45:30.995219",
+    "action_count": 14,
+    "duration": 3.413231611251831
+  },
+  "actions": [
+    {
+      "type": "key_release",
+      "key": "Key.f9",
+      "time": 0.1173243522644043
+    },
+    {
+      "type": "key_press",
+      "key": "Key.ctrl_l",
+      "time": 0.4557170867919922
+    },
+    {
+      "type": "key_press",
+      "key": "ctrl+a",
+      "time": 0.8084595203399658,
+      "is_combo": true
+    },
+    {
+      "type": "key_release",
+      "key": "a",
+      "time": 1.018031358718872
+    },
+    {
+      "type": "key_release",
+      "key": "Key.ctrl_l",
+      "time": 1.068690299987793
+    },
+    {
+      "type": "key_press",
+      "key": "Key.alt_l",
+      "time": 1.6123628616333008
+    },
+    {
+      "type": "key_press",
+      "key": "alt+d",
+      "time": 1.8526942729949951,
+      "is_combo": true
+    },
+    {
+      "type": "key_release",
+      "key": "Key.alt_l",
+      "time": 2.047917366027832
+    },
+    {
+      "type": "key_release",
+      "key": "d",
+      "time": 2.0608103275299072
+    },
+    {
+      "type": "key_press",
+      "key": "Key.ctrl_l",
+      "time": 2.481870412826538
+    },
+    {
+      "type": "key_press",
+      "key": "ctrl+v",
+      "time": 2.8778741359710693,
+      "is_combo": true
+    },
+    {
+      "type": "key_release",
+      "key": "v",
+      "time": 3.0567967891693115
+    },
+    {
+      "type": "key_release",
+      "key": "Key.ctrl_l",
+      "time": 3.0759572982788086
+    },
+    {
+      "type": "key_press",
+      "key": "Key.f9",
+      "time": 3.413231611251831
+    }
+  ]
+}

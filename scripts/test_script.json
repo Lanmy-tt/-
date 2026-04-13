@@ -1,0 +1,25 @@
+{
+    "metadata": {
+        "created_at": "2024-05-20T10:00:00",
+        "action_count": 2,
+        "duration": 1.5
+    },
+    "actions": [
+        {
+            "type": "mouse_click",
+            "x": 100,
+            "y": 200,
+            "button": "Button.left",
+            "pressed": true,
+            "time": 0.0
+        },
+        {
+            "type": "mouse_click",
+            "x": 100,
+            "y": 200,
+            "button": "Button.left",
+            "pressed": false,
+            "time": 0.5
+        }
+    ]
+}
